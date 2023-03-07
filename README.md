@@ -8,15 +8,9 @@ salutations
 
 ## test
 
-
+* CS225
 * is
 * fun
-
-1. counting
-1. with
-1. just
-1. 1.
-
 
 
 
