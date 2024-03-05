@@ -21,4 +21,6 @@ HELLO!!!!!
 * Autumn was here! :-D
 
 * Howdy!!!
+
 * marcello was here >:)
+![funny cat image](https://github.com/marric72/cs225Lab/blob/main/me_coding.png?raw=true)
