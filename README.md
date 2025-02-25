@@ -26,3 +26,4 @@ HELLO!!!!!
 ![funny cat image](https://github.com/marric72/cs225Lab/blob/main/me_coding.png?raw=true)
 
 # 👋 **Hello its Gianni!** 🚀 
+# Hey! It's Brianna! 
