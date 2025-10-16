@@ -27,3 +27,6 @@ HELLO!!!!!
 
 # 👋 **Hello its Gianni!** 🚀 
 # Hey! It's Brianna! 
+
+# Heya, it's me Erik
+-# 🐛 Sneaky Code Bug
